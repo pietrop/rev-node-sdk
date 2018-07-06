@@ -1,0 +1,147 @@
+{
+    "speakers": [
+        {
+            "id": 1,
+            "name": "Speaker 1"
+        }
+    ],
+    "monologues": [
+        {
+            "id": 1,
+            "speaker": 1,
+            "speaker_name": "Speaker 1",
+            "elements": [
+                {
+                    "type": "text",
+                    "value": "This",
+                    "timestamp": "00:00:01,770",
+                    "end_timestamp": "00:00:02,170"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "is",
+                    "timestamp": "00:00:02,170",
+                    "end_timestamp": "00:00:02,380"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "a",
+                    "timestamp": "00:00:02,380",
+                    "end_timestamp": "00:00:02,520"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "test",
+                    "timestamp": "00:00:02,520",
+                    "end_timestamp": "00:00:02,980"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "recording",
+                    "timestamp": "00:00:02,980",
+                    "end_timestamp": "00:00:03,700"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "to",
+                    "timestamp": "00:00:03,740",
+                    "end_timestamp": "00:00:03,900"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "demonstrate",
+                    "timestamp": "00:00:03,900",
+                    "end_timestamp": "00:00:04,530"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "the",
+                    "timestamp": "00:00:04,530",
+                    "end_timestamp": "00:00:04,650"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "formatting",
+                    "timestamp": "00:00:04,650",
+                    "end_timestamp": "00:00:05,420"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "for",
+                    "timestamp": "00:00:05,450",
+                    "end_timestamp": "00:00:05,730"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "per",
+                    "timestamp": "00:00:05,730",
+                    "end_timestamp": "00:00:06,010"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "word",
+                    "timestamp": "00:00:06,010",
+                    "end_timestamp": "00:00:06,530"
+                },
+                {
+                    "type": "text",
+                    "value": " "
+                },
+                {
+                    "type": "text",
+                    "value": "timestamps",
+                    "timestamp": "00:00:06,590",
+                    "end_timestamp": "00:00:07,660"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        }
+    ]
+}

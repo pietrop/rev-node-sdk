@@ -1,0 +1,38 @@
+{
+  "statusCode": 201,
+  "body": "",
+  "headers": {
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "expires": "-1",
+    "location": "https://api-sandbox.rev.com/api/v1/orders/TC0564934184",
+    "server": "Microsoft-IIS/10.0",
+    "x-miniprofiler-ids": "[\"fc2c4f82-bf57-4c26-acad-1ba4207344a2\"]",
+    "x-powered-by": "ASP.NET",
+    "date": "Sat, 30 Jun 2018 14:20:59 GMT",
+    "connection": "close",
+    "content-length": "0"
+  },
+  "request": {
+    "uri": {
+      "protocol": "https:",
+      "slashes": true,
+      "auth": null,
+      "host": "api-sandbox.rev.com",
+      "port": 443,
+      "hostname": "api-sandbox.rev.com",
+      "hash": null,
+      "search": null,
+      "query": null,
+      "pathname": "/api/v1/orders",
+      "path": "/api/v1/orders",
+      "href": "https://api-sandbox.rev.com/api/v1/orders"
+    },
+    "method": "POST",
+    "headers": {
+      "Authorization": "Rev 2CrDACUUeeg4f5fcjj5SmQlVRxQ:AAAQPPt7uXvgqL5TgdAuS8Al1TI=",
+      "Content-Type": "application/json",
+      "content-length": 135
+    }
+  }
+}

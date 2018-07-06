@@ -1,0 +1,49 @@
+{
+    "order_number": "TC0999970005",
+    "price": 2.8500,
+    "status": "Complete",
+    "priority": "Normal",
+    "non_standard_tat_guarantee": false,
+    "transcription": {
+        "verbatim": false,
+        "timestamps": true,
+        "total_length": 2,
+        "total_length_seconds": 171
+    },
+    "comments": [
+        {
+            "by": "Pietro Passarelli I.",
+            "timestamp": "2018-06-30T17:11:17.633Z"
+        },
+        {
+            "timestamp": "2018-06-30T17:17:09.48Z",
+            "text": "Order delivered"
+        }
+    ],
+    "attachments": [
+        {
+            "kind": "media",
+            "name": "Work From Home Transcription & Translation Jobs with Rev.com.mp4",
+            "id": "1VSaO2alAwAAAAAA",
+            "audio_length_seconds": 170,
+            "links": [
+                {
+                    "rel": "content",
+                    "href": "https://api-sandbox.rev.com/api/v1/attachments/1VSaO2alAwAAAAAA/content"
+                }
+            ]
+        },
+        {
+            "kind": "transcript",
+            "name": "sample_transcription.docx",
+            "id": "1VSaO2ylAwAAAAAA",
+            "links": [
+                {
+                    "rel": "content",
+                    "href": "https://api-sandbox.rev.com/api/v1/attachments/1VSaO2ylAwAAAAAA/content",
+                    "content-type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+                }
+            ]
+        }
+    ]
+}
